@@ -1,0 +1,17 @@
+{
+  "flags": {
+    "png": "https://flagcdn.com/w320/kn.png",
+    "svg": "https://flagcdn.com/kn.svg",
+    "alt": "The flag of Saint Kitts and Nevis features two large five-pointed white stars within a yellow-edged black diagonal band that extends from the lower hoist-side corner to the upper fly-side corner of the field. Above and beneath this band are a green and red triangle respectively."
+  },
+  "name": {
+    "common": "Saint Kitts and Nevis",
+    "official": "Federation of Saint Christopher and Nevis",
+    "nativeName": {
+      "eng": {
+        "official": "Federation of Saint Christopher and Nevis",
+        "common": "Saint Kitts and Nevis"
+      }
+    }
+  }
+}
